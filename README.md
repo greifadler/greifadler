@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greifadler
+# 👋 Hi, I’m @greifadler
 My name is Fabi and my heart beats for IT. In addition to IT, I have a great interest in the health sector, which is why I am studying health informatics. In my spare time, I enjoy photography, designing and developing web/mobile applications. I mostly use Kotlin, Jetpack Compose, Spring, JavaScript, React, NodeJS or SwiftUI for this..
 
 
