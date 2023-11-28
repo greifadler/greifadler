@@ -1,6 +1,4 @@
 # 👋 Hi, I’m @greifadler
-My name is Fabi and my heart beats for IT. In addition to IT, I have a great interest in the health sector, which is why I am studying health informatics. In my spare time, I enjoy photography, designing and developing web/mobile applications. I mostly use Kotlin, Jetpack Compose, Spring, JavaScript, React, NodeJS or SwiftUI for this..
-
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-5D4037?style=flat-square&logo=jetpackcompose&logoColor=white)
@@ -16,6 +14,7 @@ My name is Fabi and my heart beats for IT. In addition to IT, I have a great int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+My name is Fabi and my heart beats for IT. In addition to IT, I have a great interest in the health sector, which is why I am studying health informatics. In my spare time, I enjoy photography, designing and developing web/mobile applications. I mostly use Kotlin, Jetpack Compose, Spring, JavaScript, React, NodeJS or SwiftUI for this..
 
 - **IT Security Enthusiast**: In my spare time, I love working with IT security. Our data needs to be protected, especially in the healthcare sector.
 - **Healthcare and Digitalization Advocate**: There are thousands of diseases, but only one health. According to this motto, I aim to preserve and improve our health with the aid of digitalization.
