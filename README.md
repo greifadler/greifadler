@@ -2,9 +2,6 @@
 My name is Fabi and my heart beats for IT. In addition to IT, I have a great interest in the health sector, which is why I am studying health informatics. In my spare time, I enjoy photography, designing and developing web/mobile applications. I mostly use Kotlin, Jetpack Compose, Spring, JavaScript, React, NodeJS or SwiftUI for this..
 
 
-What am I doing
-I AM A DEVELOPER WITH A GROWING FOCUS IN THE EHEALTH & MEDICAL FIELD
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-5D4037?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
