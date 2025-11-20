@@ -16,7 +16,7 @@
 
 # About Me
 
-I am Fabian Elias Greimel, BSc and my heart beats for IT. I am a politically interested young guy that loves justice, freedom, equality, fairness, and solidarity. 
+I am Fabian Greimel, BSc and my heart beats for IT. I am a politically interested young guy that loves justice, freedom, equality, fairness, and solidarity. 
 Through my involvement within the student representation (ÖH & VSSTÖ), I've developed a strong commitment to making meaningful contributions in these areas.
 
 ## Technical Expertise
